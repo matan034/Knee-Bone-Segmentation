@@ -15,7 +15,7 @@ architecture that enhances Attention Unet which has Transfer learning
 for the encoder in order to reduce the networks parameters. It has an
 extra depth layer that extracts more features. Further more it has a Clas-
 sifier unit that reduces the amount of false positives, and an innovative
-loss function in the form of Trvesky loss. The proposed architecture was
+loss function in the form of Tversky loss. The proposed architecture was
 evaluated by predicting a volumetric CT scan from Papa Giovanni hos-
 pital, thus resulting in a complete 3D model of the femur which achieved
 a higher dice coefficient score than our base model, Attention U net.

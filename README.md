@@ -21,3 +21,10 @@ pital, thus resulting in a complete 3D model of the femur which achieved
 a higher dice coefficient score than our base model, Attention U net.
 
 ![image](https://github.com/matan034/Knee-Bone-Segmentation/assets/61933614/6b01df14-4638-4b52-b567-c1b11602be3c)
+
+# Requirments
+in order to use dataset you need to mount our google drive.
+click link https://drive.google.com/drive/folders/1oy7S3qaF740F5nC6zCtktwvXTh2xAuug?usp=drive_link
+1. Select "Shared with me" on side menu.
+2. Locate the "KneeProject" folder and open menu.
+3. Select "Add shortcut to Drive"

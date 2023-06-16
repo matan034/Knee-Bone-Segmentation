@@ -31,3 +31,13 @@ click link https://drive.google.com/drive/folders/1oy7S3qaF740F5nC6zCtktwvXTh2xA
 
 
 ![image](https://github.com/matan034/Knee-Bone-Segmentation/assets/61933614/0f363382-8222-4d5c-aa28-ab0f8e0db9c4)
+
+# Predict
+* define flags depending on the used model 
+1. TRANSFER_LEARNING
+2. CLASSIFIER
+3. EXTRA_LAYER
+* if using history define the flags for loss functions
+1. LOSS_FUNC_DICE
+2. LOSS_FUNC_TRAV
+3. USE_IOU

@@ -28,3 +28,6 @@ click link https://drive.google.com/drive/folders/1oy7S3qaF740F5nC6zCtktwvXTh2xA
 1. Select "Shared with me" on side menu.
 2. Locate the "KneeProject" folder and open menu.
 3. Select "Add shortcut to Drive"
+
+
+![image](https://github.com/matan034/Knee-Bone-Segmentation/assets/61933614/0f363382-8222-4d5c-aa28-ab0f8e0db9c4)
